@@ -73,7 +73,6 @@
 Python3.5,第三方库PyQt5==5.10.1
 建议用pip3 install pyqt5==5.10.1 ,方法安装pyqt5,否则可能出现import错误
 MySQL5.7.22
-
 # 项目成员
 李大伟 胡庆焱 李琨 何任杰 王慧 乌琼 林丽君
 
